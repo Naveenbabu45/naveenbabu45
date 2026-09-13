@@ -31,4 +31,3 @@ I am Kommavarapu Naveen Babu, a B.Tech CSE student with a strong interest in sof
 ![](https://github-readme-stats.vercel.app/api?username=Naveenbabu45&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenbabu45&theme=dark&hide_border=false&layout=compact)
-

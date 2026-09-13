@@ -27,11 +27,8 @@ I am Kommavarapu Naveen Babu, a B.Tech CSE student with a strong interest in sof
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Naveenbabu45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Naveenbabu45&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Naveenbabu45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Naveenbabu45&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=Naveenbabu45&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenbabu45&theme=dark&hide_border=false&layout=compact)
+

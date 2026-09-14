@@ -24,7 +24,7 @@ I am Kommavarapu Naveen Babu, a B.Tech CSE student with a strong interest in sof
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
 
-### ☁️ Cloud & Tools
+### 🛠️ Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:

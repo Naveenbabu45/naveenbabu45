@@ -4,6 +4,7 @@ I am Kommavarapu Naveen Babu, a B.Tech CSE student with a strong interest in sof
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kommmavarapunaveenbabu) [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://naveen-portfolio-swart-rho.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveennaveen78811@gmail.com)
+
 # 💻 Tech Stack:
 
 ### 💻 Programming Languages
@@ -30,8 +31,3 @@ I am Kommavarapu Naveen Babu, a B.Tech CSE student with a strong interest in sof
 ![](https://github-readme-stats.shion.dev/api?username=Naveenbabu45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Naveenbabu45&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Naveenbabu45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Naveenbabu45&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

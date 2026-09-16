@@ -27,6 +27,51 @@ I am Kommavarapu Naveen Babu, a B.Tech CSE student with a strong interest in sof
 ### 🛠️ Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## 🚀 Featured Projects
+
+### 🏫 CampusFlow
+Full-stack campus management platform for streamlining academic and administrative workflows.
+
+**Tech:** React.js • Node.js • Express.js • MongoDB • JWT
+
+🔗 [Live Demo](https://campusflow-frontend-green.vercel.app/) • [GitHub](https://github.com/Naveenbabu45/CampusFlow)
+
+---
+
+### 📈 SB Stocks
+Full-stack paper trading platform for practicing US stock trading with virtual money, portfolio tracking, and performance monitoring.
+
+**Tech:** React.js • Node.js • Express.js • MongoDB
+
+🔗 [Live Demo](https://sb-stocks-frontend.onrender.com/) • [GitHub](https://github.com/Naveenbabu45/STOCK-TRADING-APP)
+
+---
+
+### 🤖 RecoverX
+Autonomous AI payment recovery agent designed to predict failed payments and optimize recovery actions.
+
+**Tech:** Python • Machine Learning • Random Forest • Razorpay
+
+🔗 [Live Demo](https://recoverx-dashboard.onrender.com/) • [GitHub](https://github.com/Naveenbabu45/recoverx)
+
+---
+
+### 🎮 SYSTEM_SNAKE
+Neon Snake game with an integrated music player, responsive controls, and CRT-inspired interface.
+
+**Tech:** React • TypeScript • Vite • Tailwind CSS • Motion
+
+🔗 [Live Demo](https://vibe-code-bice-one.vercel.app/) • [GitHub](https://github.com/Naveenbabu45/vibe-code)
+
+---
+
+### 🗣️ Voice2Justice
+Multilingual AI-powered police complaint portal with voice input, complaint tracking, authentication, and admin case management.
+
+**Tech:** Next.js • TypeScript • AI • SQLite • JWT
+
+🔗 [GitHub](https://github.com/Naveenbabu45/voice2justice)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Naveenbabu45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Naveenbabu45&theme=dark&hide_border=false)<br/>

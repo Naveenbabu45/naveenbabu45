@@ -70,7 +70,7 @@ Multilingual AI-powered police complaint portal with voice input, complaint trac
 
 **Tech:** Next.js • TypeScript • AI • SQLite • JWT
 
-🔗 [GitHub](https://github.com/Naveenbabu45/voice2justice)
+🔗 [Live Demo](https://voice2justice.vercel.app/) • [GitHub](https://github.com/Naveenbabu45/voice2justice)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Naveenbabu45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
